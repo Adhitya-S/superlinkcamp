@@ -1,0 +1,37 @@
+<?xml version="1.0"?>
+<svg width="26" height="167" xmlns="http://www.w3.org/2000/svg" xmlns:svg="http://www.w3.org/2000/svg">
+ <defs>
+  <filter color-interpolation-filters="sRGB" filterUnits="userSpaceOnUse" height="26" id="filter0_f_115_1118" width="26" x="0" y="0">
+   <feFlood flood-opacity="0" result="BackgroundImageFix"/>
+   <feBlend in="SourceGraphic" in2="BackgroundImageFix"/>
+   <feGaussianBlur result="effect1_foregroundBlur_115_1118" stdDeviation="3"/>
+  </filter>
+  <filter color-interpolation-filters="sRGB" filterUnits="userSpaceOnUse" height="26" id="filter1_f_115_1118" width="26" x="0" y="141">
+   <feFlood flood-opacity="0" result="BackgroundImageFix"/>
+   <feBlend in="SourceGraphic" in2="BackgroundImageFix"/>
+   <feGaussianBlur result="effect1_foregroundBlur_115_1118" stdDeviation="3"/>
+  </filter>
+ </defs>
+ <g class="layer">
+  <title>Layer 1</title>
+  <rect fill="#EEEEEE" height="151" id="svg_1" rx="6" width="12" x="7" y="5"/>
+  <g filter="url(#filter0_f_115_1118)" id="svg_2">
+   <rect fill="#292C27" height="14" id="svg_3" rx="7" width="14" x="6" y="6"/>
+  </g>
+  <rect fill="#292C27" height="13" id="svg_4" rx="6.5" stroke="white" stroke-width="3" width="13" x="6.5" y="4.5"/>
+  <rect fill="#C4C4C4" height="4" id="svg_5" rx="2" width="4" x="11" y="25"/>
+  <rect fill="#C4C4C4" height="4" id="svg_6" rx="2" width="4" x="11" y="37"/>
+  <rect fill="#C4C4C4" height="4" id="svg_7" rx="2" width="4" x="11" y="49"/>
+  <rect fill="#bfbfbf" height="4" id="svg_8" rx="2" width="4" x="11" y="61"/>
+  <rect fill="#bfbfbf" height="4" id="svg_9" rx="2" width="4" x="11" y="73"/>
+  <rect fill="#ff0000" height="4" id="svg_10" rx="2" width="4" x="11" y="85"/>
+  <rect fill="#ff0000" height="4" id="svg_11" rx="2" width="4" x="11" y="97"/>
+  <rect fill="#ff0000" height="4" id="svg_12" rx="2" width="4" x="11" y="109"/>
+  <rect fill="#ff0000" height="4" id="svg_13" rx="2" width="4" x="11" y="121"/>
+  <rect fill="#ff0000" height="4" id="svg_14" rx="2" width="4" x="11" y="133"/>
+  <g filter="url(#filter1_f_115_1118)" id="svg_15">
+   <rect fill="#ff0000" height="14" id="svg_16" rx="7" width="14" x="6" y="147"/>
+  </g>
+  <rect fill="#bf1818" height="13" id="svg_17" rx="6.5" stroke="white" stroke-width="3" width="13" x="6.5" y="145.5"/>
+ </g>
+</svg>
